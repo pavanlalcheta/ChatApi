@@ -12,7 +12,11 @@ const options = {
             {
                 url:'http://localhost:3000',
                 description:"Local Server"
-            }
+            },
+             {
+                url: "https://chatapi-6y1f.onrender.com",
+                description: "Production (Render)"
+        }
         ]
     },
     apis:["./routes/*.js"]
