@@ -62,7 +62,8 @@ It provides:
 
 1️⃣ Clone Repository
 
-git clone https://github.com/<your-username>/ChatApi.git
+```bash
+git clone https://github.com/pavanlalcheta/ChatApi.git
 cd ChatApi 
 
 2️⃣ Install Dependencies
